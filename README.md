@@ -1,3 +1,3 @@
 Another training site :)
 
-kabrax01-testportfolio.netlify.app
+https://kabrax01-testportfolio.netlify.app
