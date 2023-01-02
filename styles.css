@@ -266,17 +266,34 @@ footer p
     flex-direction: column;
     text-align: center;
   }
-  .project-grid_p p:hover{
-    animation: none;
-  }
+  
   ul {
-    font-size: 0.5rem
+    font-size: 0.5rem;
+    width: 100%;
   }
   .project-grid_p {
     font-size: 0.8rem;
   }
   .contact-links_single a{
     font-size: 1rem;
+    height: 2rem
+  }
+  .welcome h1{
+    text-align: center;
+  }
+  .project h2 {
+    max-width: none;
+  }
+  .project-grid {
+    display: flex;
+    flex-direction: column;
+  }
+  .contact-links_single {
+    flex-direction: column;
+    align-self: stretch;
+  }
+  .contact-links {
+    
   }
 }
 
